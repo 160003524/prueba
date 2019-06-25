@@ -9,5 +9,5 @@ int main ()
   {
     printf ("Numero: %d\r\n", rand() % 5); 
   }
-  return 0;
+  return false;
 }
